@@ -1,0 +1,13 @@
+General_terms = [
+"Africa", 
+"Asia + Pacific", 
+"EECCA",
+"Ethiopia (Former)",
+"Europe",
+"Latin America + Caribbean",
+"North America",
+"Serbia (and Montenegro)",
+"Sudan (Former)",
+"USSR",
+"West Asia",
+"Yugoslavia SFR"]
